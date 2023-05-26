@@ -1,5 +1,10 @@
 # 💫 About Me:
-- 🔭 I’m currently working as a Data Scientist<br>- 🌱 I’m currently learning about LLM models.<br>- 👯 I’m looking to collaborate with individuals passionate about data and technology.<br>- 🤔 I'm looking for help with developing efficient LLM models, optimizing plugins, and integrating an intuitive user interface for my application that personalizes learning paths. The objective is to democratize skills and knowledge through a virtual assistant.<br>- 💬 Ask me about data science and artificial intelligence.<br>- ⚡ seeking for teams and scientific communities to work with.
+- 🔭 I’m currently working as a Data Scientist<br>
+- 🌱 I’m currently learning about LLM models.<br>
+- 👯 I’m looking to collaborate with individuals passionate about data and technology.<br>
+- 🤔 I'm looking for help with developing efficient LLM models, optimizing plugins, and integrating an intuitive user interface for my application that personalizes learning paths. The objective is to democratize skills and knowledge through a virtual assistant.<br>
+- 💬 Ask me about data science and artificial intelligence.<br>
+- ⚡ seeking for teams and scientific communities to work with.
 
 
 ## 🌐 Socials:
@@ -31,7 +36,7 @@
 - Scrum
 - Process Design
 - Mathematical Modeling & Optimization (Metaheuristics, Machine Learning, Deep Learning, Stochastic Modeling, Mixed Integer Linear Programming)
-- 
+
 ## 🔬 Reseach
 [Kidney Procurement System in Colombia: A System Dynamics Approach](https://revistas.javeriana.edu.co/files-articulos/RGPS/18-36%20(2019-I)/54559086011/)
 
