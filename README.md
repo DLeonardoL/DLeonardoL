@@ -1,3 +1,6 @@
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/davidlizarazo/) 
+
 # 💫 About Me:
 - 🔭 I’m currently working as a Data Scientist<br>
 - 🌱 I’m currently learning about LLM models.<br>
@@ -7,8 +10,6 @@
 - ⚡ seeking for teams and scientific communities to work with.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/davidlizarazo/) 
 
 # 💻 Tech Stack:
 
